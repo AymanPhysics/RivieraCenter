@@ -1,0 +1,9 @@
+﻿<Window x:Class="PCs"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="PCs" Height="104" Width="617" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBox Margin="12,7,12,39" Name="TextBox1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" FontWeight="Bold" IsReadOnly="True" Height="28" Background="#FFFFFEED" />
+        <TextBox Margin="12,38,12,8" x:Name="TextBox2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" FontWeight="Bold" Height="28" Background="#FFFFFDCF" />
+    </Grid>
+</Window>
